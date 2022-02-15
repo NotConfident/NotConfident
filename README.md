@@ -37,7 +37,6 @@ Frameworks
 <img src="https://img.shields.io/badge/Web3.py-red?logo=Web3.y&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/Web3.js-jade?logo=Web3.js&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/PyTest-purple?logo=PyTest&logoColor=white&style=for-the-badge">
-<img src="">
 
 Cloud Platforms
 <br>
@@ -48,7 +47,6 @@ Cloud Platforms
 <img src="https://img.shields.io/badge/Azure%20DevOps-blue?logo=AzureDevOps&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/AzureFunctions-blue?logo=AzureFunctions&logoColor=white&style=for-the-badge">
-<img src="">
 
 Others
 <br>
