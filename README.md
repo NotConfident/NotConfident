@@ -10,7 +10,7 @@
 This is where i experiment with various technologies and mini-projects. I love to buidl (Web3.0 Terms 👀) things.
 
 - 📚 I'm graduating from Ngee Ann Polytechnic in Information Technology *soon*
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning <a href="https://github.com/NotConfident/learn-Solidity">Solidity</a>
 - 💬 Talk to me about ✨ Blockchain, Web3.0 ✨
 - 🔥 Deeply interested and facinated by Blockchain Technology
 
@@ -46,10 +46,12 @@ Cloud Platforms
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Azure%20DevOps-blue?logo=AzureDevOps&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-<img src="https://img.shields.io/badge/AzureFunctions-blue?logo=AzureFunctions&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Azure%20Functions-blue?logo=Azure-Functions&logoColor=white&style=for-the-badge">
 
-Others
+Other Tools
 <br>
+<img src="https://img.shields.io/badge/Ganache-66ffcc?logo=Ganache&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Brownie-BCF4F5?logo=Brownie&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/tableau-white?logo=tableau&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/Cisco%20Networking-darkgreen?logo=cisco&logoColor=white&style=for-the-badge">
 
