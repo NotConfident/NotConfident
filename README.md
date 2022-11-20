@@ -7,9 +7,9 @@
 <br>
                       
                           
-This is where i experiment with various technologies and mini-projects. I love to buidl (Web3.0 Terms 👀) things.
+This is where i experiment with various technologies and mini-projects, as well as school assignments. I love to buidl (Web3.0 Terms 👀) things.
 
-- 📚 I'm graduating from Ngee Ann Polytechnic in Information Technology *soon*
+- 📚 Graduated from Ngee Ann Polytechnic with a Diploma in Information Technlogy. Currently serving the nation 🇸🇬
 - 🌱 I’m currently learning <a href="https://github.com/NotConfident/learn-Solidity">Solidity</a>
 - 💬 Talk to me about ✨ Blockchain, Web3.0 ✨
 - 🔥 Deeply interested and facinated by Blockchain Technology
